@@ -1,7 +1,7 @@
 {
   "name": "@saltcorn/extended-inputs",
   "version": "0.1.0",
-  "description": "Additional input fieldviews",
+  "description": "Additional input fieldviews: enhanced slider controls that combine a range slider with a numeric input field, allowing users to either drag or type values",
   "main": "index.js",
   "dependencies": {
     "@saltcorn/markup": "^0.8.0",
